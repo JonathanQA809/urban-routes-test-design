@@ -4,6 +4,15 @@
 
 This project focuses on test design for the Urban Routes web application. The goal was to analyze functional requirements and create effective test cases using structured testing techniques.
 
+## Application Preview
+
+<p align="center">
+Urban Routes Web App: <br/>
+<img src="https://i.imgur.com/6b0bsbh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+
 ## Scope
 
 The project covered requirement analysis and test case design based on functional requirements FR-1 to FR-4.
